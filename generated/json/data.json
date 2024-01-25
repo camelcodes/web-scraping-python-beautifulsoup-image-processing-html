@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures",
+        "rating": "4/5",
+        "description": "There are no easy decisions in software architecture. Instead, there are many hard parts--difficult problems or issues with no best practices--that force you to choose among various compromises. With this book, you'll learn how to think critically about the trade-offs involved with distributed architectures.",
+        "original_image_url": "https://www.camelcodes.net/content/images/2024/01/81sdcxLtlwL._SY522_.jpg",
+        "thumbnail_image": "81sdcxLtlwL._SY522_.jpg",
+        "buy_link": "https://amzn.to/48JOPT4?ref=camelcodes.net",
+        "last_update_date": "2024-01-25T20:50:41.138360"
+    },
+    {
+        "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)",
+        "rating": "4/5",
+        "description": "By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books\u00a0Clean Code\u00a0and\u00a0The Clean Coder,\u00a0legendary software craftsman Robert C. Martin (\u201cUncle Bob\u201d) reveals those rules and helps you apply them.",
+        "original_image_url": "https://www.camelcodes.net/content/images/2024/01/61r4tYVsRVL._SY522_.jpg",
+        "thumbnail_image": "61r4tYVsRVL._SY522_.jpg",
+        "buy_link": "https://amzn.to/41LqBWa?ref=camelcodes.net",
+        "last_update_date": "2024-01-25T20:50:41.292046"
+    },
+    {
+        "title": "Spring Boot in Action",
+        "rating": "4/5",
+        "description": "A developer-focused guide to writing applications using Spring Boot. You'll learn how to bypass the tedious configuration steps so that you can concentrate on your application's behavior.Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+        "original_image_url": "https://www.camelcodes.net/content/images/2024/01/71rQMKhj-ZL._SY522_.jpg",
+        "thumbnail_image": "71rQMKhj-ZL._SY522_.jpg",
+        "buy_link": "https://amzn.to/423dKPn?ref=camelcodes.net",
+        "last_update_date": "2024-01-25T20:50:41.452351"
+    }
+]
